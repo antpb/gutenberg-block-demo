@@ -1,0 +1,32 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wordcamp {
+  min-height: 200px;
+  background-color: blueviolet;
+  line-height: 200px !important;
+  color: white !important;
+  vertical-align: middle;
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 2em !important;
+  background-size: cover; }
+
+.wordcamp-blue {
+  min-height: 200px;
+  background-color: blue;
+  line-height: 200px !important;
+  color: white !important;
+  vertical-align: middle;
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 2em !important;
+  background-size: cover; }
